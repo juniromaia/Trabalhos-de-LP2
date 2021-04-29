@@ -1,0 +1,11 @@
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\bin\Debug\netcoreapp3.0\Loja de itens mágicos.exe
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\bin\Debug\netcoreapp3.0\Loja de itens mágicos.deps.json
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\bin\Debug\netcoreapp3.0\Loja de itens mágicos.runtimeconfig.json
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\bin\Debug\netcoreapp3.0\Loja de itens mágicos.runtimeconfig.dev.json
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\bin\Debug\netcoreapp3.0\Loja de itens mágicos.dll
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\bin\Debug\netcoreapp3.0\Loja de itens mágicos.pdb
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\obj\Debug\netcoreapp3.0\Loja de itens mágicos.csprojAssemblyReference.cache
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\obj\Debug\netcoreapp3.0\Loja de itens mágicos.AssemblyInfoInputs.cache
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\obj\Debug\netcoreapp3.0\Loja de itens mágicos.AssemblyInfo.cs
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\obj\Debug\netcoreapp3.0\Loja de itens mágicos.dll
+C:\Users\Luciana\source\repos\Loja de itens mágicos\Loja de itens mágicos\obj\Debug\netcoreapp3.0\Loja de itens mágicos.pdb
